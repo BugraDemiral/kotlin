@@ -1,0 +1,1 @@
+sensor implementation of status switching for different device triggers
